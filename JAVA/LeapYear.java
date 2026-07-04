@@ -1,5 +1,3 @@
-package JAVA;
-
 // Problem: Check Leap Year
 
 // My Solution
